@@ -1,0 +1,7 @@
+Exclude/
+*.png
+*.xls
+*.pptx
+*.html
+*.Rhistory
+Figures/
