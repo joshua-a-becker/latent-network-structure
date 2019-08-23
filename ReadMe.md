@@ -1,7 +1,5 @@
-# This is a project in progress
+# DEPRECATED DUE TO NAME CHANGE
 
-## The code works, but it's not well commented yet...
-email joshua.becker@kellogg.northwestern.edu with questions
+(also lots of updates to the analysis.)
 
-## Data Note
-Gurcay et al. data uploaded with permission of authors.
+move https://github.com/joshua-a-becker/emergent-network-structure
