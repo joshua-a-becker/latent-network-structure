@@ -2,4 +2,4 @@
 
 (also lots of updates to the analysis.)
 
-move https://github.com/joshua-a-becker/emergent-network-structure
+## moved to https://github.com/joshua-a-becker/emergent-network-structure
